@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pet</string>
+    <string name="pet">Failed to load pet image.</string>
+</resources>
